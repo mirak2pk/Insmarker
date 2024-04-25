@@ -7,7 +7,6 @@
 </head>
 <body>
     <a href="https://akboubhajar.github.io/Instamarker/dist/index.html#" target="_blank">Insta Maker Website</a><br>
-    <a href="https://akboubhajar.github.io/Instamarker/dist/privacy-policy.html" target="_blank">Privacy Policy</a><br>
-    <a href="https://akboubhajar.github.io/Instamarker/dist/termsandconditions.html" target="_blank">Terms and Conditions</a>
+   
 </body>
 </html>
